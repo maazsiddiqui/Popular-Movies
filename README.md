@@ -13,3 +13,4 @@ ViewModel.
 - Utilized ButterKnife for view binding and Picasso for image loading.
 
 ![popular movies grid view](popular_movies_grid.jpg)
+![top_rated movies grid view](top_rated_grid.jpg)
