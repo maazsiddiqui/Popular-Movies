@@ -1,6 +1,5 @@
 # Popular Movies
 
-## Project Overview
 App to discover “Popular” and “Top Rated” movies from TMDB API.
 You can flip through movie posters, check movie details, watch movie
 trailers, read other people's reviews and create a list of your
