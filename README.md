@@ -12,4 +12,4 @@ favorite movies.
 ViewModel.
 - Utilized ButterKnife for view binding and Picasso for image loading.
 
-![popular movies grid view](https://github.com/maazsiddiqui/Popular-Movies/blob/master/popular_movies_grid.jpg)
+![popular movies grid view](popular_movies_grid.jpg)
