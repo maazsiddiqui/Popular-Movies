@@ -14,3 +14,6 @@ ViewModel.
 
 ![popular movies grid view](popular_movies_grid.jpg)
 ![top_rated movies grid view](top_rated_grid.jpg)
+![movie_detail view](movie_detail_view.jpg)
+![favorite_grid_view](favorite_grid.jpg)
+![favorite_detail view](favorite_detail_view.jpg)
