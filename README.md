@@ -11,3 +11,5 @@ favorite movies.
 - Implemented newly released Android Architecture Components; Room, LiveData and
 ViewModel.
 - Utilized ButterKnife for view binding and Picasso for image loading.
+
+![popular movies grid view](https://github.com/maazsiddiqui/Popular-Movies/blob/master/popular_movies_grid.jpg)
