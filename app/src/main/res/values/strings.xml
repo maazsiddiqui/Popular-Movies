@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="menu_top_rated">Top Rated Movies</string>
+    <string name="menu_popular">Popular Movies</string>
+    <string name="menu_favorite">Favorite Movies</string>
+    <string name="label_release_date">Release Date:</string>
+    <string name="label_rating">Rating:</string>
+    <string name="cd_movie_poster">Movie Poster</string>
+    <string name="toggle_text_off">Mark as Favorite</string>
+    <string name="toggle_text_on">Added to Favorites</string>
+    <string name="video_section_title">Videos</string>
+    <string name="reviews_section_title">Reviews</string>
+    <string name="movie_detail_label">Movie Detail</string>
+    <string name="no_videos_available_label">No videos available</string>
+    <string name="no_reviews_available_label">No reviews available</string>
+    <string name="movie_overview_missing">Awaiting movie overview…</string>
+    <string name="youtube_video_thumb_uri_scheme">https</string>
+    <string name="youtube_video_thumb_uri_authority">www.youtube.com</string>
+    <string name="youtube_video_thumb_uri_append_path">watch</string>
+    <string name="youtube_video_thumb_uri_query_parameter">v</string>
+    <string name="video_thumbnail">Video Thumbnail</string>
+    <string name="play_icon_thumbnail">Play Icon Thumbnail</string>
+</resources>

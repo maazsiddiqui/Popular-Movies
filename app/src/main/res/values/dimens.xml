@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="rv_top_bottom_margins">10dp</dimen>
+    <dimen name="rv_left_right_margins">20dp</dimen>
+    <dimen name="review_item_padding">10dp</dimen>
+    <dimen name="review_item_TopMargin">6dp</dimen>
+</resources>
